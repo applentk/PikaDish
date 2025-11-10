@@ -1,20 +1,16 @@
-# PikaDish (Pick a dish)
-
 <img
-  src="/app/src/main/icon-playstore.png"
-  alt="Logo" width="35%"
-  align="right"
-/>
+  src="/app/src/main/res/mipmap-xxxhdpi/icon_round.webp"
+  alt="Logo" height="175"
+/>  
 
-A dish recipe search android app from android course's final project at KMITL 
+# PikaDish (Pick a dish)
+An android's dish recipe search app for android course's final project
 
 * [MealDB](https://www.themealdb.com/) for recipe API
 * Model-View-ViewModel Architecture
 * Room database for storing favorite recipe
 * Dagger-Hilt for Dependency Injection
 * REST API using Retrofit
-
-<br clear="all" />
 
 ## Screenshots 
 
