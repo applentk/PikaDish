@@ -1,4 +1,4 @@
-# PikaDish
+# PikaDish (Pick a dish)
 
 <img
   src="https://raw.githubusercontent.com/66050207-Nonthakorn/pikadish/refs/heads/main/app/src/main/icon-playstore.png"
