@@ -1,7 +1,7 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/66050207-Nonthakorn/pikadish/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/icon_foreground.webp"
-    alt="Logo" width="485" height="485"
+    src="https://raw.githubusercontent.com/66050207-Nonthakorn/pikadish/refs/heads/main/app/src/main/icon-playstore.png"
+    alt="Logo" width="360" height="360"
   >
   <h2 align="start">
     PikaDish
